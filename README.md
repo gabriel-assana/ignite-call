@@ -32,4 +32,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
   </a>
 </p>
 
-<!--END_SECTION:footer-->
+<!--END_SECTION:footer--
