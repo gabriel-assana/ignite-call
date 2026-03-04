@@ -23,7 +23,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 
 <!--START_SECTION:footer-->
-
 <br />
 <br />
 <p align="center">
